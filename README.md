@@ -15,6 +15,9 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 
 
 
+### Build Information
+
+(work in progress)
 
 ### Main Components
 
