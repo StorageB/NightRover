@@ -10,7 +10,7 @@ NightRover bot was built to run on the Remo.tv platform. Remo.tv is a simple to 
 
 
 Remo.tv website: https://remo.tv/get
-
+Link to Remo.tv github https://github.com/remotv/controller
 Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa5-dfbd6e9f8be1
 
 
@@ -32,6 +32,8 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 [12V LED lights](https://www.amazon.com/gp/product/B07CVCSY2M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
 [USB mini speaker](https://www.amazon.com/gp/product/B075M7FHM1/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+
+[buck converter](https://www.amazon.com/gp/product/B076H3XHXP/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 [2 channel relay](https://www.amazon.com/gp/product/B072BY3KJF/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) 
 
