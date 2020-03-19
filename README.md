@@ -10,8 +10,11 @@ NightRover bot was built to run on the Remo.tv platform. Remo.tv is a simple to 
 
 
 Remo.tv website: https://remo.tv/get
+
 Link to Remo.tv github https://github.com/remotv/controller
+
 Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa5-dfbd6e9f8be1
+
 
 
 
@@ -26,6 +29,8 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 [Robot chassis, motor, and wheels](https://www.microcenter.com/product/476372/velleman-2-wheel-drive-motor-chassis-robotics-kit) 
 
 [Adafruit motor hat](https://www.adafruit.com/product/2348)
+
+[USB camera](https://www.microcenter.com/product/380932/logitech-hd-pro-webcam-c920)
 
 [12V 3000mAh battery pack](https://www.amazon.com/gp/product/B01M7Z9Z1N/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
 
