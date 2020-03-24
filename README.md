@@ -22,6 +22,11 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 
 (work in progress)
 
+### Wiring Diagram
+
+(work in progress)
+
+
 ### Main Components
 
 [Raspberry pi 3b+](https://www.microcenter.com/product/601561/raspberry-pi-3-model-b)
