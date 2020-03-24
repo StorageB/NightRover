@@ -37,7 +37,7 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 
 [USB camera](https://www.microcenter.com/product/380932/logitech-hd-pro-webcam-c920)
 
-[Servo for camera tilt](https://usa-m.banggood.com/MG995-High-Torgue-Metal-Gear-Analog-Servo-for-RC-Airplane-Models-p-73885.html?gmcCountry=US&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=frank&utm_campaign=ssc-usg-100-all-0821&ad_id=378825333488&gclid=CjwKCAjwsMzzBRACEiwAx4lLGzztdpgQiGXD0X20oqIolGU7rYdnAYp62J4ymBxYdDKXouAk6RHLdBoC7DgQAvD_BwE)
+[Servo for camera tilt](https://www.banggood.com/MG995-High-Torgue-Metal-Gear-Analog-Servo-for-RC-Airplane-Models-p-73885.html?gmcCountry=US&currency=USD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=frank&utm_campaign=ssc-usg-100-all-0821&ad_id=378825333488&gclid=CjwKCAjwsMzzBRACEiwAx4lLGzztdpgQiGXD0X20oqIolGU7rYdnAYp62J4ymBxYdDKXouAk6RHLdBoC7DgQAvD_BwE)
 
 [12V 3000mAh battery pack](https://www.amazon.com/gp/product/B01M7Z9Z1N/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
 
