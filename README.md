@@ -29,7 +29,7 @@ Link to this robot's channel: https://remo.tv/Hopper/chan-048b17cd-231c-4ca6-9aa
 
 ### Main Components
 
-[Raspberry pi 3b+](https://www.microcenter.com/product/601561/raspberry-pi-3-model-b)
+[Raspberry pi 3b+](https://www.microcenter.com/product/505661/element-14-raspberry-pi-3-model-b)
 
 [Robot chassis, motor, and wheels](https://www.microcenter.com/product/476372/velleman-2-wheel-drive-motor-chassis-robotics-kit) 
 
